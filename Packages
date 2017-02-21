@@ -1,0 +1,104 @@
+Package: applebetas.ios.tweak.blurrycc10
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.blurrycc10/
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.blurrycc10_1.0.1-1_iphoneos-arm.deb
+Size: 8126
+MD5sum: fb329b655270e31ae66285cf2654ee39
+SHA1: af426cda2a70f7c9568acb9b127398038443bbac
+SHA256: 7801e49321d67770e088e95959563270160f4b4f5d3ceed8fe396665131fc6ea
+Section: Tweaks
+Description: Give the iOS 10 Control Center a much more blurry and translucent look, similar to that of iOS 7's.
+Author: AppleBetas
+Name: BlurryCC10
+
+Package: applebetas.ios.tweak.cleannotifications10
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.cleannotifications10/
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.cleannotifications10_1.0.1-1_iphoneos-arm.deb
+Size: 5058
+MD5sum: 0b9b4ed1c7b58ce739c515b6d3d66010
+SHA1: 07dc1450028068b95808a030c73dd0a5d088c4fb
+SHA256: 322d28615503db4a9a50ab65805344a1938a4b3479d984b0151b8a966bb0047e
+Section: Tweaks
+Description: Give notifications and widgets a cleaner look.
+Author: AppleBetas
+Name: CleanNotifications10
+
+Package: applebetas.ios.tweak.notitinter
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.notitinter/
+Version: 1.0.1-2
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.notitinter_1.0.1-2_iphoneos-arm.deb
+Size: 23710
+MD5sum: c2c54853ea3c80899869d278c8fb26a5
+SHA1: d72eb0cede58f73d3171dcd255ce259648765a48
+SHA256: f8db13212199996cd8d94f4dcdde8fb056ff407d7e4b497ca2baea35bd58b77f
+Section: Tweaks
+Description: Tint the iOS 10 notifications with the prominent colour in the app's icon! (This tweak contains the ColorCube library, which is under the MIT license. You can find a copy of that at https://github.com/pixelogik/ColorCube/blob/master/LICENSE)
+Author: AppleBetas
+Name: NotiTinter
+
+Package: applebetas.ios.tweak.translucentmessages
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.translucentmessages/
+Icon: https://repo.applebetas.tk/package-data/applebetas.ios.tweak.translucentmessages/icon.png
+Version: 1.0.0-28
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: deb/applebetas.ios.tweak.translucentmessages_1.0.0-28_iphoneos-arm.deb
+Size: 69402
+MD5sum: b0e4607d8d9b888c35f7ff561c0dcb9e
+SHA1: d4a72270db34f6fa024d2a3710bf6c6e15cdd223
+SHA256: b2692e6cd53144f5606508dfad434afcff6dec9eefab27f85bc43b9863f0019b
+Section: Tweaks
+Description: Adds a beautiful blurred effect to your messages app, letting you see your wallpaper through it.
+Author: AppleBetas
+Name: TranslucentMessages
+
+Package: com.evilgoldfish.lockglyph
+Depiction: https://repo.applebetas.tk/depiction/com.evilgoldfish.lockglyph/
+Version: 1.2-beta6-1
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish, AppleBetas, nullpixel
+Installed-Size: 772
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Filename: deb/com.evilgoldfish.lockglyph_1.2-beta6-1_iphoneos-arm.deb
+Size: 176608
+MD5sum: 6a98368848ec1ec8b94972087c9bec4b
+SHA1: ddd1115c6b41c86de6192682d331d3585b560709
+SHA256: 259ce137f83f9a756d2b9b1499f03316b4fc305d973ee004e762cfa1c6428f19
+Section: Tweaks
+Description: UNOFFICIAL BETA WITH iOS 10 SUPPORT. Adds the Apple Pay completed payment animation to the lockscreen, and animates when unlocking the device with Touch ID. This code has been modified by @AppleBetasDev and @nullriver to add support for iOS 10. Full credit for everything else goes to @evilgoldfish01.
+Author: evilgoldfish
+Name: LockGlyph (iOS 8-10)
+
+Package: pw.virulent.execubokeh
+Depiction: https://repo.applebetas.tk/depiction/pw.virulent.execubokeh/
+Version: 1.1~tim-cook
+Architecture: iphoneos-arm
+Maintainer: GotKrypto76
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 7.0), wget
+Filename: deb/pw.virulent.execubokeh_1.1tim-cook_iphoneos-arm.deb
+Size: 115276
+MD5sum: 9a740945f1357fe27191cf56302076a2
+SHA1: cf22cadae9bec60c0ad76bf6621c0089d9cbe60c
+SHA256: 6c2ca8203b1198f4b9f5412cece18ac81f8179db83dce5abef879a7ffb242d89
+Section: Tweaks
+Priority: optional
+Description: Executives float around in your dynamic wallpapers.
+Author: GotKrypto76
+Name: ExecuBokeh
+
