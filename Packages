@@ -52,18 +52,18 @@ Name: NotiTinter
 Package: applebetas.ios.tweak.translucentmessages
 Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.translucentmessages/
 Icon: https://repo.applebetas.tk/package-data/applebetas.ios.tweak.translucentmessages/icon.png
-Version: 1.0.0-28
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 356
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: deb/applebetas.ios.tweak.translucentmessages_1.0.0-28_iphoneos-arm.deb
-Size: 69402
-MD5sum: b0e4607d8d9b888c35f7ff561c0dcb9e
-SHA1: d4a72270db34f6fa024d2a3710bf6c6e15cdd223
-SHA256: b2692e6cd53144f5606508dfad434afcff6dec9eefab27f85bc43b9863f0019b
+Filename: deb/applebetas.ios.tweak.translucentmessages_1.0.1_iphoneos-arm.deb
+Size: 74680
+MD5sum: e36b5f33225d285eb909355f3f95fe37
+SHA1: 1fa9be62d0921c52fbb108bfd36565f2cb727f1e
+SHA256: 53e2a46ce945e11c0f0c01b4d3977bedcd00f922803e0b01dd7d4ca6ae7adbae
 Section: Tweaks
-Description: Adds a beautiful blurred effect to your messages app, letting you see your wallpaper through it.
+Description: Adds a beautiful blurred effect to your messages app and more, letting you see your wallpaper through them.
 Author: AppleBetas
 Name: TranslucentMessages
 
