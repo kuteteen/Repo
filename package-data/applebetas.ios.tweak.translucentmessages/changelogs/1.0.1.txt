@@ -7,5 +7,5 @@ Better 3D Touch peek styling
 Setting to disable blur effect
 Prompt user when reduce transparency is enabled
 Fix conversation list background colour to match conversation view
-Add support for GroupMe
+Add support for the GroupMe tweak
 Tons of bug fixes
