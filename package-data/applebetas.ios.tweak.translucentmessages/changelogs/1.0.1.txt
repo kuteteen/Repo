@@ -8,4 +8,4 @@ Setting to disable blur effect
 Prompt user when reduce transparency is enabled
 Fix conversation list background colour to match conversation view
 Add support for the GroupMe tweak
-Tons of bug fixes
+Various bug fixes
