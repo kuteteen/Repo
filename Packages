@@ -67,23 +67,6 @@ Description: Adds a beautiful blurred effect to your messages app and more, lett
 Author: AppleBetas
 Name: TranslucentMessages
 
-Package: com.evilgoldfish.lockglyph
-Depiction: https://repo.applebetas.tk/depiction/com.evilgoldfish.lockglyph/
-Version: 1.2-beta6-1
-Architecture: iphoneos-arm
-Maintainer: evilgoldfish, AppleBetas, nullpixel
-Installed-Size: 772
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
-Filename: deb/com.evilgoldfish.lockglyph_1.2-beta6-1_iphoneos-arm.deb
-Size: 176608
-MD5sum: 6a98368848ec1ec8b94972087c9bec4b
-SHA1: ddd1115c6b41c86de6192682d331d3585b560709
-SHA256: 259ce137f83f9a756d2b9b1499f03316b4fc305d973ee004e762cfa1c6428f19
-Section: Tweaks
-Description: UNOFFICIAL BETA WITH iOS 10 SUPPORT. Adds the Apple Pay completed payment animation to the lockscreen, and animates when unlocking the device with Touch ID. This code has been modified by @AppleBetasDev and @nullriver to add support for iOS 10. Full credit for everything else goes to @evilgoldfish01.
-Author: evilgoldfish
-Name: LockGlyph (iOS 8-10)
-
 Package: pw.virulent.execubokeh
 Depiction: https://repo.applebetas.tk/depiction/pw.virulent.execubokeh/
 Version: 1.1~tim-cook
