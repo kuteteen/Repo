@@ -32,6 +32,24 @@ Description: Give notifications and widgets a cleaner look.
 Author: AppleBetas
 Name: CleanNotifications10
 
+Package: applebetas.ios.tweak.countdown
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.countdown/
+Icon: https://repo.applebetas.tk/package-data/applebetas.ios.tweak.countdown/icon.png
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: deb/applebetas.ios.tweak.countdown_1.0_iphoneos-arm.deb
+Size: 92956
+MD5sum: a513234e08e2ea8225b4c331a15d15d2
+SHA1: 40b286e08658035aee1cff0961b7671526eda188
+SHA256: 02ae5119b317b8822004b22d155cfd30535effb18a00ef1aa1021408983b127c
+Section: Tweaks
+Description: Replace your Lock Screen's "Press home to unlock" text with a countdown to a date of your choice!
+Author: AppleBetas
+Name: Countdown
+
 Package: applebetas.ios.tweak.notitinter
 Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.notitinter/
 Version: 1.0.1-2
